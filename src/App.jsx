@@ -8,7 +8,8 @@ import Skills from './components/Skills/Skills'
 import Intro from './components/Intro/Intro'
 import Journey from './components/Journey/Journey'
 import Contact from './components/Contact/Contact'
-import Footer from './components/footer/footer'
+import Footer from './components/Footer/Footer'
+
 import AnimatedCursor from "react-animated-cursor"
 
 function App() {
